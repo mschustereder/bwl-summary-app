@@ -1,0 +1,31 @@
+{
+  "id": 4,
+  "title": "Digitalisierung und Vernetzung von Wirtschaft und Gesellschaft",
+  "icon": "💻",
+  "sections": [
+    {
+      "heading": "4.1 Digitale Transformation",
+      "importance": "⭐⭐",
+      "content": "Unter **Digitalisierung** wird die Anwendung digitaler Informations- und Kommunikationstechnologie verstanden und wie durch diese Anwendung Veränderung, also **digitale Transformation**, in Teilen der Wirtschaft, Verwaltung und dem privaten Bereich vorangetrieben wird.\n\n**Drei Dimensionen der Digitalisierung:**\n- **Backstage (1. Dimension):** Geschäftsprozesse hinter den Kulissen eines Unternehmens unterstützen die Wertschöpfung und werden zunehmend durch Systeme erweitert und gesteuert.\n- **Frontstage (2. Dimension):** Verbindung zwischen Kunden und Unternehmen – der externe Fokus eines Unternehmens. Die Digitalisierung bietet neue Potenziale, um die Wünsche der Nutzer viel effizienter und gezielter zu berücksichtigen.\n- **Smarte Produkte/Dienstleistungen (3. Dimension):** Digitalisierung von Produkten und Dienstleistungen von Unternehmen.\n\nDaraus lässt sich eine **Digitalisierungsstrategie** ableiten, die dem Unternehmen hilft, zukünftige Entscheidungen zu treffen. Im Gesamten führt dies zum **Digital Business**.",
+      "key_concepts": ["Digitalisierung", "Digitale Transformation", "Backstage", "Frontstage", "Digital Business"]
+    },
+    {
+      "heading": "4.2 Neue Produkte, Dienstleistungen und Geschäftsmodelle",
+      "importance": "⭐⭐⭐",
+      "content": "Ein **Geschäftsmodell** beschreibt, wie ein Unternehmen auf Basis einer Geschäftsidee ein Produkt oder eine Dienstleistung erzeugt, bereitstellt und vertreibt, um nach Gegenüberstellung eingesetzter Ressourcen und Einnahmen, einen Gewinn zu erwirtschaften (Wertschöpfung).\n\n**Pure-Play vs. Clicks-and-Mortar:**\n- **Pure-Play-Geschäftsmodelle** finden ausschließlich online statt. Die Unternehmen agieren vorrangig im digitalen Raum und besitzen keine physischen Geschäftsniederlassungen.\n- **Clicks-and-Mortar-Geschäftsmodelle:** Die digitale Präsenz (z.B. Webshop) stellt eine Erweiterung des traditionellen physischen Geschäfts dar.\n\n**Erlösmodelle:**\n- **Werbemodell:** setzt auf Werbung als Einnahmequelle. Ein Unternehmen generiert durch Anzeige von Werbung auf seiner Website Einnahmen. Viele scheinbar kostenlose Dienste wie Google Suche oder soziale Netzwerke finanzieren sich über dieses Modell.\n- **Abonnentenmodell:** erhebt eine laufende Gebühr für den Zugriff auf einen Teil oder alle Angebote, die ein Unternehmen zur Verfügung stellt. Beispiele sind Streaming-Dienste wie Netflix oder Spotify.",
+      "key_concepts": ["Geschäftsmodell", "Pure-Play", "Clicks-and-Mortar", "Werbemodell", "Abonnentenmodell"]
+    },
+    {
+      "heading": "4.3 Das Internet als Plattform für Unternehmen",
+      "importance": "⭐",
+      "content": "**Internet vs. World Wide Web:** Das **Internet** ist ein Netzwerk von Netzwerken, die weltweit miteinander verbunden sind. Das **WWW** ist ein Dienst, der auf der Infrastruktur des Internets aufbaut und es ermöglicht, Informationen zur Verfügung zu stellen, auffindbar zu machen und sinnvoll darzustellen.\n\n**Client-Server-Architektur:** Die **Client-Server-Architektur** unterscheidet zwischen **Client** und **Server**. Der Client (z.B. Browser) kann Inhalte vom Server anfordern (**Request-Response-Prinzip**).\n\n**Internetökonomie:** Die **Internetökonomie** umfasst die ökonomische Nutzung des Internets, um wertschöpfende Transaktionen durchzuführen. Es entsteht dadurch ein digitaler Markt bzw. eine digitale Plattform.",
+      "key_concepts": ["Internet", "World Wide Web", "Client-Server-Architektur", "Internetökonomie"]
+    },
+    {
+      "heading": "4.4 Wirtschaftsinformatik als übergreifende Disziplin",
+      "importance": "⭐⭐⭐",
+      "content": "Gegenstand der **Wirtschaftsinformatik** sind **Informationssysteme** in Wirtschaft, Verwaltung und privatem Bereich. Die Disziplin befasst sich dabei mit allen Aktivitäten rund um Entwicklung, Einführung, Betrieb, Nutzung und Ablösung von Informationssystemen. Sie versteht sich als interdisziplinäres Fach basierend auf der Betriebswirtschaftslehre und der Informatik.\n\n**Anwendungssystem vs. Informationssystem:**\n- **Anwendungssystem:** Ein System, bestehend aus einem oder mehreren Programmen, welches für ein bestimmtes betriebliches Aufgabengebiet eingesetzt und entwickelt wurde. Es umfasst Daten, IT-Infrastruktur und Software.\n- **Informationssystem:** Ein System, welches zum Zweck eines bestimmten Unternehmens entwickelt und angepasst wurde. Es berücksichtigt organisatorische Strukturen und besteht aus Menschen und Maschinen (Rechner, Anwendungssystem, Netzwerk und Kommunikationseinrichtungen), die Information erzeugen und/oder benutzen.\n\n**Komponenten eines Informationssystems:** Daten, Prozesse, Menschen, Hardware und Software (Anwendungssysteme).\n\n**ERP-Systeme:** Ein **ERP-System (Enterprise-Resource-Planning-System)** ist ein klassisches Beispiel für ein betriebliches Informationssystem, welches je nach Fokus die wesentlichen betrieblichen Bereiche in seinen Funktionen unterstützt (z.B. Rechnungswesen, Materialwirtschaft, Produktion, Personalwesen). **SAP** ist ein führender Anbieter von ERP-Systemen.",
+      "key_concepts": ["Wirtschaftsinformatik", "Anwendungssystem", "Informationssystem", "ERP-System", "SAP"]
+    }
+  ]
+}
